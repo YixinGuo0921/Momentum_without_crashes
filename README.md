@@ -50,6 +50,9 @@ $$
     Performance metrics like Sharpe ratio, Max Drawdown, IC, ICIR, t-statistic, Rank IC, and Win rate are calculated to evaluate the strategy's performance.
    
 5. **Result**:
+
+   ![My Image](./屏幕截图 2023-10-27 024700.png)
+
    
 
 ## Tools Used
