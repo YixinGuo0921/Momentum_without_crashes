@@ -51,7 +51,7 @@ $$
    
 5. **Result**:
 
-   ![My Image](./屏幕截图 2023-10-27 024700.png)
+   ![My Image](./result.png)
 
    
 
