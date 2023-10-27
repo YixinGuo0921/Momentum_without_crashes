@@ -44,12 +44,13 @@ $$
 
 3. **Momentum and Reversion Signal**:
    
+   By applying a mathematical transformation to yield $r_{it}$, we could using appromixation to get a factor which both representing momentum and reversion signal, which helps us reduce the possibity of momentum crash caused by reversion signal(detailed results are shown in html)
    
-4. **Metrics Calculation**:
+5. **Metrics Calculation**:
 
     Performance metrics like Sharpe ratio, Max Drawdown, IC, ICIR, t-statistic, Rank IC, and Win rate are calculated to evaluate the strategy's performance.
    
-5. **Result**:
+6. **Result**:
 
    ![My Image](./result.png)
 
