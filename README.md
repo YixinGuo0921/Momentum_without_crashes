@@ -1,5 +1,5 @@
 # Momentum_without_crashes
-Jupyter Notebook of quantative intern in Yinhe Security, based on publishment named "Momentum Without Crashes"
+Jupyter Notebook of quantative intern in XXX Security, based on publishment named "Momentum Without Crashes"
 
 This README provides an overview of a quantitative strategy that utilizes fractional differencing to create a momentum and mean-reversion based trading signal.
 
