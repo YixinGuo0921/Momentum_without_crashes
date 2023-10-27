@@ -3,7 +3,7 @@ Jupyter Notebook of quantative intern in XXX Security, based on publishment name
 
 This README provides an overview of a quantitative strategy that utilizes fractional differencing to create a momentum and mean-reversion based trading signal.
 
-银河证券金融工程组实习期间的产出。一个基于分数差分方法的改进动量策略，完整代码可见html。
+XXX证券金融工程组实习期间的产出。一个基于分数差分方法的改进动量策略，完整代码可见html。
 
 策略结果如下：
 | Indicator | Value |
