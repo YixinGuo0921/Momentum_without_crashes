@@ -1,7 +1,22 @@
 # Momentum_without_crashes
-Jupyter Notebook of Internship in Yinhe Security, based on publishment named "Momentum Without Crashes"
+Jupyter Notebook of quantative intern in Yinhe Security, based on publishment named "Momentum Without Crashes"
 
 This README provides an overview of a quantitative strategy that utilizes fractional differencing to create a momentum and mean-reversion based trading signal.
+
+银河证券金融工程组实习期间的产出。一个基于分数差分方法的改进动量策略，完整代码可见html。
+
+策略结果如下：
+| Indicator | Value |
+| ---: | ---: |
+| Annualized Return | 0.177262 |
+| Annualized Volatility | 0.285742 |
+| Sharpe Ratio | 0.620356 |
+| Max Drawdown | -0.480625 |
+| IC | 0.049569 |
+| ICIR | 0.600930 |
+| t-statistic | 2.065267 |
+| Rank IC | 0.091733 |
+| Win_rate | 0.593985 |
 
 ## Background
 
@@ -27,6 +42,8 @@ Textbook developments and presentations of fractional differencing in time serie
 $$
 p_{t, i}^{1}=\sum_{s=0}^{\infty} \pi_s p_{t-s, i}, \quad \text { with } \quad \pi_0=1, \quad \text { and } \quad \pi_s=(-1)^s \prod_{i=0}^{s-1} \frac{d-i}{s !}, \quad \text { for } \quad s>0.
 $$
+
+作者希望通过分数差分这一工具在“损失信息尽可能少”的前提下保持相应金融数据的平稳性，故其根据和收益率类似的$r_{it}$进行了相应的涉及分数差分的等价变形，并将其作为因子开发策略。
 
 ## Methodology
 
